@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/kavia/workspace/code-generation/recipe-explorer-184054-184066/user_interface_frontend
+flutter analyze
+
